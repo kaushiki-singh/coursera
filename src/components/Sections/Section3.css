@@ -1,0 +1,25 @@
+.section3 {
+  -webkit-box-align: center;
+  -webkit-box-direction: normal;
+  -webkit-box-orient: vertical;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  display: block;
+  font-weight: 600;
+  color: rgb(31, 31, 31);
+  margin-bottom: 65px;
+  padding: 0px 20px;
+  text-align: center;
+  line-height: 52px;
+  font-size: 44px;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+}

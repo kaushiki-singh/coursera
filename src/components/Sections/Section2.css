@@ -1,0 +1,41 @@
+.section2 {
+  letter-spacing: -1px;
+  text-align: center;
+  width: 100%;
+  background-color: rgb(245, 245, 245);
+  padding-top: 64px;
+  padding-bottom: 64px;
+  margin: 0px auto;
+  max-width: 100%;
+  min-height: 299px;
+}
+.section {
+  color: black;
+}
+.subsection {
+  color: rgb(0, 86, 210);
+}
+.section:hover {
+  text-decoration: none;
+  color: black;
+}
+.subsection:hover {
+  text-decoration: underline;
+  color: rgb(0, 86, 210);
+}
+.images {
+  -webkit-box-pack: justify;
+  -webkit-box-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin: 0px auto;
+  max-width: 1132px;
+  padding: 0px 10px;
+  width: 100%;
+  margin-top: 50px;
+}
+.img {
+  display: inline-block;
+  margin: 0px 10px 30px;
+}

@@ -1,0 +1,43 @@
+.section1 {
+  display: flex;
+  margin: 30px;
+  margin-top: 40px;
+}
+.section1 > div {
+  flex: 1 1;
+}
+.first_div {
+  /* width: 40%; */
+  margin-left: 50px;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.first {
+  font-family: "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  display: block;
+  line-height: 92px;
+  font-size: 84px;
+  letter-spacing: -0.2px;
+  font-weight: 600;
+  margin-left: 170px;
+  width: 100px;
+}
+.second {
+  line-height: 28px;
+  font-size: 20px;
+  letter-spacing: -0.1px;
+  margin-bottom: 25px;
+  margin-top: 24px;
+  margin-left: 170px;
+  width: 510px;
+  text-align: left;
+}
+.third {
+  margin-left: 170px;
+  width: 220px;
+  height: 70px;
+  font-size: 20px;
+  font-weight: bold;
+}
